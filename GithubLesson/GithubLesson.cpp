@@ -5,5 +5,5 @@
 
 int main()
 {
-    std::cout << "hello\n";
+    std::cout << "2nd git commit nha\n";
 }
